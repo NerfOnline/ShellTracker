@@ -1,6 +1,6 @@
 ﻿# ShellTracker
-### Linkshell Attendance Tracker
-Creates a log file to track linkshell attendance and copies the list to clipboard. For linkshells with over 40 members, it is recommended to use linkshell mode by opening the in game linkshell roster before using the linkshell command.
+### Linkshell Attendance Tracker (Ashita v4)
+Addon for Ashita v4 that creates a log file to track linkshell attendance and copies the list to clipboard. For linkshells with over 40 members, it is recommended to use linkshell mode by opening the in game linkshell roster before using the linkshell command.
 
 ### Commands
 The following commands may be used:
